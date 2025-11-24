@@ -1,5 +1,9 @@
 # [WEB303 Practical 3] : Microservices with gRPC and Service Discovery
 
+## Repository
+### **Source Code**: The complete source code for this practical is available in the GitHub repository:  
+#### **Repository Link**: https://github.com/DechenWangdraSherpa/web303-practical-three
+
 ## Objective
 This practical implements a complete microservices ecosystem using gRPC for inter-service communication, PostgreSQL databases for data persistence, and Consul for service discovery. The system consists of an API Gateway, two independent microservices (users-service and products-service), and a composite endpoint demonstrating service orchestration.
 
